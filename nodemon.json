@@ -1,6 +1,6 @@
 {
-    "watch": ["src"],
-    "ext": ".ts,.js",
-    "ignore": [],
-    "exec": "ts-node ./src/server.ts"
-  }
+  "watch": ["server", "client/src"],
+  "ext": ".ts,.tsx,.js",
+  "ignore": [],
+  "exec": "node --inspect-brk ./build/server.js"
+}

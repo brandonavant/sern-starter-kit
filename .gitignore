@@ -108,3 +108,5 @@ dist
 
 # Build Directories
 build/
+
+.DS_Store
