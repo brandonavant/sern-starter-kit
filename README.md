@@ -1,37 +1,5 @@
-# Volunteer Points Log
+# SERN-stack Demonstration
 
-Application that allows SCA Gulf Wars volunteers to log their hours and accrue points.
+This application acts as a proof-of-concept for a SERN (SQL-Express-React-Node) application. It can be used as a base / boilerplate for any Express-React-Node based application. The database layer can easily be replaced with any sort of other relational or NoSQL database.
 
-## Connecting to database
-
-### CLI
-
-### IDE
-
-TODO: Suggest IDE (s)
-
-## Running Locally
-
-The most ideal way of running the application locally is running the following command:
-
-```npm run start:dev```
-
-TODO: Need to complete this once the scripts are updated to start up the React application.
-
-## Building
-
-To build the application for deployment to the server, run the following command:
-
-```npm run build```
-
-TODO: Finish documenting this once the React application is setup.
-
-## Running on Server
-
-```npm start:prod```
-
-TODO: Finish documenting this.
-
-## Running tests
-
-```npm run test```
+This particular implementation uses SQLite.

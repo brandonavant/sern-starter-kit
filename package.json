@@ -1,7 +1,7 @@
 {
-  "name": "volunteer-points-log",
+  "name": "sern-stack-demonstration",
   "version": "1.0.0",
-  "description": "Application that allows SCA Gulf Wars volunteers to log their hours and accrue points.",
+  "description": "This application acts as a proof-of-concept for a SERN (SQL-Express-React-Node) application.",
   "main": "server/server.js",
   "scripts": {
     "start:prod": "npm run build && node ./build/server.js",
@@ -13,14 +13,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/brandonavant/volunteer-points-log.git"
+    "url": "git@github.com:brandonavant/sern-starter-kit.git"
   },
   "author": "JBR Web Dev",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/brandonavant/volunteer-points-log/issues"
+    "url": "git@github.com:brandonavant/sern-starter-kit.git/issues"
   },
-  "homepage": "https://github.com/brandonavant/volunteer-points-log#readme",
+  "homepage": "git@github.com:brandonavant/sern-starter-kit.git#readme",
   "devDependencies": {
     "@types/body-parser": "^1.17.1",
     "@types/express": "^4.17.2",
